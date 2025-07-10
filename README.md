@@ -1,8 +1,8 @@
 # about-me
 # 👩‍💻 Hi there! I am Sybal.
 
--I am a **Cloud & Data Enthusiast**.
--Currently rebooting my tech career while raising two wonderful humans. 💕
+  -I am a **Cloud & Data Enthusiast**.  
+  -Currently rebooting my tech career while raising two wonderful humans. 💕
 
 ---
 
