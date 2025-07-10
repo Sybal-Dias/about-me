@@ -1,8 +1,8 @@
 # about-me
-# 👩‍💻 Hi, I am Sybal!
+# 👩‍💻 Hi there! I am Sybal.
 
-I am a **Cloud & Data Enthusiast**.
-Currently rebooting my tech career while raising two wonderful humans. 💕
+-I am a **Cloud & Data Enthusiast**.
+-Currently rebooting my tech career while raising two wonderful humans. 💕
 
 ---
 
@@ -24,7 +24,7 @@ Currently rebooting my tech career while raising two wonderful humans. 💕
 
 ## 🌐 Let’s Connect  
 📍 Edmonton, Canada | Available for collaboration & freelance opportunities  
-🔗 [LinkedIn](https://www.linkedin.com/in/sybaldias/)
-📸[Instagram – @thecareerreboot](https://www.instagram.com/thecareerreboot/)
+-🔗 [LinkedIn](https://www.linkedin.com/in/sybaldias/)
+-📸[Instagram – @thecareerreboot](https://www.instagram.com/thecareerreboot/)
 
 ⭐️ *Thanks for stopping by! Feel free to explore my repos and follow my journey.*
