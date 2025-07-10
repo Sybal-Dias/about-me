@@ -24,7 +24,7 @@
 
 ## 🌐 Let’s Connect  
 📍 Edmonton, Canada | Available for collaboration & freelance opportunities  
--🔗 [LinkedIn](https://www.linkedin.com/in/sybaldias/)
--📸[Instagram – @thecareerreboot](https://www.instagram.com/thecareerreboot/)
+    -🔗 [LinkedIn](https://www.linkedin.com/in/sybaldias/)
+    -[📸](https://www.instagram.com/thecareerreboot/)
 
 ⭐️ *Thanks for stopping by! Feel free to explore my repos and follow my journey.*
