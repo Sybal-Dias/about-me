@@ -26,4 +26,6 @@
 📍 Edmonton, Canada | Available for collaboration & freelance opportunities  
      -🔗 [LinkedIn](https://www.linkedin.com/in/sybaldias/)  
 
-⭐️ *Thanks for stopping by! Feel free to explore my repos and follow my journey.*
+⭐️ *Thanks for stopping by! Feel free to explore my repos and follow my journey.* 
+
+## *Sprinkle Joy, Spread Kindness, Share Smiles... Be human.*
