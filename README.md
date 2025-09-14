@@ -21,7 +21,6 @@
 ## 🌐 Let’s Connect  
 📍 Edmonton, Canada | Available for collaboration & freelance opportunities  
      -🔗 [LinkedIn](https://www.linkedin.com/in/sybaldias/)  
-     ![SD](https://github.com/user-attachments/assets/7b2e50fb-93e7-4f0b-8b2a-dce44f3b888b)
 
 
 ⭐️ *Thanks for stopping by! Feel free to explore my repos and follow my journey.*   
